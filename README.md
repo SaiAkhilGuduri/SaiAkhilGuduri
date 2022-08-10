@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning about anything intresting SPACE, CODING .......
 - 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on PySpark and Python
-- 📫 How to reach me saiakhil.guduri@aa.co,m
+- 📫 How to reach me saiakhil.guduri@aa.com
 
 <!---
 SaiAkhilGuduri/SaiAkhilGuduri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
